@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn/2dlearn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn/HelloWorld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn/flappy_bird/wechat_flappy-bird" vcs="Git" />
